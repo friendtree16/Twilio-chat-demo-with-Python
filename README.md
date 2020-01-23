@@ -8,3 +8,4 @@
 - Run `pip install bottle`
 - Run `pip install twilio`
 - Run `python server.py`
+- Access to `localhost:8080`
